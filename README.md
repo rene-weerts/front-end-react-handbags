@@ -37,6 +37,7 @@ Begin met het maken van wijzigingen in `src/App.js`: elke keer als je een bestan
    custom component en geef de juiste informatie mee.
 
 ### Producten
+
 ![Producten](src/assets/screenshots/products.png)
 1. Maak een omwikkelende `main`-tag voor de producten. Stop daar vier `article`-elementen in zoals op bovenstaande afbeelding, met:
    * Een `span` voor het rode label
